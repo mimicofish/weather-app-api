@@ -1,4 +1,4 @@
-# Wheater App
+# Weather App
 
 Simple weather app using OpenWheater API.
 
@@ -17,4 +17,4 @@ Simple weather app using OpenWheater API.
 - API (OpenWheater)
 
 ## Demo
-https://mimicofish.github.io/wheater-app-api/
+https://mimicofish.github.io/weather-app-api/
